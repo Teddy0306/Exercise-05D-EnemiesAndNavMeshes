@@ -1,4 +1,4 @@
-# Exercise-05c-LightsAndMaterials
+# Exercise-05d-LightsAndMaterials
 
 
 ## Implementation
@@ -8,4 +8,4 @@
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Cas Wilson
